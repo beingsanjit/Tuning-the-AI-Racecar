@@ -46,3 +46,5 @@ Use **Vertex AI**, **LangChain**, and structured prompt experimentation to:
 ## 👋 Author
 
 Sanjit Sharma — technology consultant, systems thinker, and machine learning engineer in the making.
+
+https://www.linkedin.com/in/sanjitsharma1/
